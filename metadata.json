@@ -1,0 +1,5 @@
+{
+  "name": "O Espirro da Borboleta: Um Jogo com Gemini",
+  "description": "Um jogo web interativo onde você ajuda uma borboleta a navegar por um jardim. Esta aplicação usa Gemini para gerar os recursos visuais do jogo em tempo real antes de você jogar.",
+  "requestFramePermissions": []
+}
